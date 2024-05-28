@@ -1,0 +1,10 @@
+first_number=int(input("Enter your input:"))
+second_number =int(input("Enter your input:"))
+a =first_number+second_number
+b=first_number-second_number
+c=first_number*second_number
+d=first_number/second_number
+print(a)
+print(b)
+print(c)
+print(d)
